@@ -1,0 +1,14 @@
+{
+	"plugins": [
+		"exercises",
+		"youtube",
+		"duoshuo",
+		"gist"
+	],
+	"pluginsConfig": {
+		"duoshuo": {
+			"short_name":"我啃晴天",
+			"theme": "default"
+		}
+	}
+}
